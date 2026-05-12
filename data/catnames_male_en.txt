@@ -8,11 +8,13 @@ Fredi Kamionka gmina Burzenin
 
 # Liceum
 Marian Gońda
+Mariano Banano
 Kostka Rubika
 Arek Cebula
 
 # Danganronpa
 Monokuma
+Nagito Komaeda
 
 # Wakfu
 Yugo
@@ -20,6 +22,7 @@ Sir Percedal
 Grougaloragan
 Rouel Stroud
 Adamai
+Nox
 
 # Gothic
 Bezi
@@ -43,6 +46,12 @@ Kangurek Kao
 Frytki belgijskie XXXXXXXXL
 Piwko nie można
 Długi klocek z Tetrisa
+Jemierasz
+Portal z gry Prey
+Skibid
+
+# Murder Drones
+N
 
 # Iniemamocni
 Mrożon
@@ -65,6 +74,7 @@ Odd
 Ulrich
 Jeremie
 Kiwi
+y=ax+b
 
 # Youtube
 Eleven
@@ -92,6 +102,9 @@ Diabeuu
 Bladii
 Plaga
 RockyDoggy
+Admiros
+Maxplaier
+Hubert Moszka
 Marcin Buczyński
 Malphite
 Rafonix
@@ -101,6 +114,12 @@ JJ Joker
 Dave z Ameryki
 Xayoo
 DisStream
+
+# Gimnazjum
+Czaku
+Kleszczu
+Kwadrat
+Pieczarek
 
 # FMiD
 Damien
