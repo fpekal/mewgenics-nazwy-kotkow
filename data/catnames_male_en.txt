@@ -5,6 +5,10 @@ Pączek
 Azor
 Reksio
 Fredi Kamionka gmina Burzenin
+Hugo
+Wycior
+Ciastko
+Brutus
 
 # Liceum
 Marian Gońda
@@ -38,8 +42,10 @@ Skibidi Sigma Rizzler
 Zgerypała
 67
 Amogus
+Amorbiusz
 Cwel
 Murzyn
+Miałrzyn
 Czarnuch
 Tung Tung Tung Sahur
 Kangurek Kao
@@ -81,12 +87,18 @@ Eleven
 Weza
 Staszek
 Ryfek
+Ryfcio
 Książulo
+MUALA
+Mualan
+Bobiczek
 RockAlone 2000
 Samotna Skała 2000
 Miszor
 Piłeczka
 ZajanekPL
+CoUkOk
+PosseDistroyer22
 Gimper
 Gimpson
 Tata Gimpera
@@ -98,6 +110,9 @@ Boiler
 Anterias
 Elo Żelo
 Ta Rakieta
+Mandzio
+Ignacy
+Kolega Ignacy
 Diabeuu
 Bladii
 Plaga
@@ -132,6 +147,10 @@ Freddy FNAF
 Fredussy
 Breadbear
 William Afton
+Foxy
+Bonnie
+Golden Freddy
+Springtrap
 
 # Lokalne osobistości
 Kefyyr
