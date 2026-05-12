@@ -1,0 +1,15 @@
+name: build
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - run: ./.github/build.sh
+      - uses: svenstaro/upload-release-action@v2
+        with:
+          file: nazwy_kotkow.zip
+          asset_name: nazwy_kotkow
+          overwrite: true
