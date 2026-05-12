@@ -4,6 +4,8 @@ cd build
 
 cp -r ../description.json ../data .
 
+sed -i "s/%VERSION%/$GITHUB_REF_NAME/" description.json
+
 files=("data/catnames_male_en.txt" "data/catnames_female_en.txt" "data/catnames_neutral_en.txt")
 
 for file in "${files[@]}"; do
