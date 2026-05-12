@@ -14,5 +14,5 @@ jobs:
       - uses: svenstaro/upload-release-action@v2
         with:
           file: nazwy_kotkow.zip
-          asset_name: nazwy_kotkow
+          asset_name: nazwy_kotkow.zip
           overwrite: true
