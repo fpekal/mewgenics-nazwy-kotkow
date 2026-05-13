@@ -129,6 +129,13 @@ JJ Joker
 Dave z Ameryki
 Xayoo
 DisStream
+Krzysztof Kononowicz
+Major
+Tiger Bonzo
+
+# Tiktok
+Janusz Pijanka Ho-ka hej
+Dżordzo Automatowicz
 
 # Gimnazjum
 Czaku
@@ -255,22 +262,40 @@ Tytus
 Urwipołeć śmierdzący groszem
 Źrebak
 
-# Znane osobistości
-Binjamin Netanjahu
-Zbigniew Ziobro
-Jeffrey Epstein
-Pasha Biceps
+# Znani polacy
+Jan Paweł III
 Jan Paweł II
 Pan Paweł
-Józef Stalin
-Adolf Hitler
 Witold Gombrowicz
+Robert Makłowicz
+Marcin Najman
+Tomasz Karolak
+
+# Znane zagraniczne osoby
+Hrabia Monte Christo
+Samuel L. Jackson
+Jeffrey Epstein
+
+# Politycy
+Charlie Kirk
+Donald Tusk
+Edward Gierek
 Grzegorz Braun
 Joseph Goebbels
 Heinrich Himmler
 Włodzimierz Lenin
 Benito Mussolini
-Robert Makłowicz
+Józef Stalin
+Adolf Hitler
+Binjamin Netanjahu
+Zbigniew Ziobro
+Józef Piłsudski
+Roman Dmowski
+Wincenty Witos
+Wojciech Jaruzelski
+
+# Sport
+Lewis Hamilton
 Robert Kubica
 Max Verstappen
 Fernando Alonso
@@ -279,27 +304,18 @@ Michał Pazdan
 Marcin Gortat
 Adam Małysz
 Pudzian
-Krzysztof Kononowicz
-Major
-Tiger Bonzo
-Marcin Najman
-Janusz Pijanka Ho-ka hej
-Bedoes2115
-White2115
-Kuqe2115
+Pasha Biceps
+
+# Muzyka
+Bedoes 2115
+White 2115
+Kuqe 2115
 2115
-Donald Tusk
-Edward Gierek
-Dżordzo Automatowicz
-Samuel L. Jackson
-Tomasz Karolak
-Edzio Rap
-Hrabia Monte Christo
-Charlie Kirk
 Kanye West
 Kaz Bałagane
 Oyche Doniz
-Lewis Hamilton
+Edzio Rap
+GSP
 
 # Breaking Bad
 Saul Goodman
